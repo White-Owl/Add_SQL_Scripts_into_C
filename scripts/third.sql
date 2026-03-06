@@ -1,0 +1,1 @@
+create table third (i integer primary key);
